@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/Gourav3308/Gourav3308/main/assets/developer.gif">
 
 I'm a passionate **Full Stack Java Developer** with expertise in building robust web applications using modern technologies. I love solving complex problems and creating efficient solutions that make a difference! 🚀
 
