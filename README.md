@@ -14,21 +14,63 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/Gourav3308/Gourav3308/main/assets/developer.gif">
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=I+am+a+passionate+developer;Building+amazing+web+applications;Always+learning+new+technologies;Creating+efficient+solutions" alt="Typing SVG" />
+
+</div>
 
 I'm a passionate **Full Stack Java Developer** with expertise in building robust web applications using modern technologies. I love solving complex problems and creating efficient solutions that make a difference! 🚀
 
 </div>
 
-<div align="left">
+<div align="center">
 
-### 🎯 What I'm Up To
-- 🔭 **Currently working on** healthcare management systems and banking applications
-- 🌱 **Learning** advanced Spring Boot features and microservices architecture  
-- 👯 **Looking to collaborate** on open source projects
-- 💬 **Ask me about** Java, Spring Boot, React, Angular, or Data Structures & Algorithms
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BtgpwFEK7R1uGAO2U0gg4Pg%3D%3D)
-- ⚡ **Fun fact:** I enjoy competitive programming and solving algorithmic challenges
+## 🎯 What I'm Up To
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔭 Currently Working
+**Healthcare Management Systems**  
+**Banking Applications**
+
+</td>
+<td align="center" width="33%">
+
+### 🌱 Learning
+**Advanced Spring Boot**  
+**Microservices Architecture**
+
+</td>
+<td align="center" width="33%">
+
+### 👯 Looking For
+**Open Source Collaboration**  
+**New Opportunities**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 💬 Ask Me About
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+### ⚡ Fun Fact
+I enjoy competitive programming and solving algorithmic challenges! 🧠
 
 </div>
 
@@ -185,6 +227,8 @@ A comprehensive portfolio application showcasing projects and skills with MongoD
 
 ## 🔗 Connect With Me
 
+<div align="center">
+
 <a href="https://portfolio-mongo-db.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
@@ -200,40 +244,54 @@ A comprehensive portfolio application showcasing projects and skills with MongoD
 
 </div>
 
+### 📫 Reach Me At
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BtgpwFEK7R1uGAO2U0gg4Pg%3D%3D)
+
+</div>
+
 ---
 
 <div align="center">
 
 ## 💡 What I'm Working On
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
 
 ### 🔨 Microservices
-Building scalable microservices architecture
+**Building scalable**  
+**microservices architecture**
 
 </td>
 <td align="center" width="25%">
 
 ### 🎯 Frontend Skills
-Improving React and Angular expertise
+**Improving React and**  
+**Angular expertise**
 
 </td>
 <td align="center" width="25%">
 
 ### ☁️ Cloud Technologies
-Learning AWS/Azure deployment
+**Learning AWS/Azure**  
+**deployment strategies**
 
 </td>
 <td align="center" width="25%">
 
 ### 🚀 Open Source
-Contributing to community projects
+**Contributing to**  
+**community projects**
 
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
@@ -243,34 +301,38 @@ Contributing to community projects
 
 ## 🎯 Goals for 2025
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 🏗️ Architecture
-- [ ] Master microservices architecture
-- [ ] Learn cloud deployment strategies
-- [ ] Implement CI/CD pipelines
+- [ ] **Master microservices** architecture
+- [ ] **Learn cloud deployment** strategies  
+- [ ] **Implement CI/CD** pipelines
 
 </td>
 <td align="center" width="33%">
 
 ### 💼 Professional
-- [ ] Build comprehensive project portfolio
-- [ ] Mentor junior developers
-- [ ] Contribute to more open source projects
+- [ ] **Build comprehensive** project portfolio
+- [ ] **Mentor junior** developers
+- [ ] **Contribute to more** open source projects
 
 </td>
 <td align="center" width="33%">
 
 ### 🚀 Technical
-- [ ] Advanced Spring Boot features
-- [ ] React/Angular best practices
-- [ ] Database optimization techniques
+- [ ] **Advanced Spring Boot** features
+- [ ] **React/Angular** best practices
+- [ ] **Database optimization** techniques
 
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
@@ -280,36 +342,30 @@ Contributing to community projects
 
 ## 💼 Open to Opportunities
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/Full_Stack_Java_Developer-FF6B6B?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot_Developer-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular_Developer-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend_API_Developer-FF6B6B?style=for-the-badge&logo=api&logoColor=white" />
 
-**I'm actively looking for opportunities in:**
-- 🖥️ Full Stack Java Development
-- 🚀 Spring Boot Application Development  
-- ⚛️ React/Angular Frontend Development
-- 🔧 Backend API Development
-- 👨‍💻 Software Engineering Roles
+</div>
+
+### 🎯 I'm actively looking for opportunities in:
+- 🖥️ **Full Stack Java Development**
+- 🚀 **Spring Boot Application Development**  
+- ⚛️ **React/Angular Frontend Development**
+- 🔧 **Backend API Development**
+- 👨‍💻 **Software Engineering Roles**
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20Feel%20free%20to%20explore%20my%20repositories%20and%20reach%20out%20for%20collaboration%20opportunities.&fontSize=20&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20Feel%20free%20to%20explore%20my%20repositories%20and%20reach%20out%20for%20collaboration%20opportunities.&fontSize=18&fontAlignY=50&animation=twinkling" />
 
 </div>
