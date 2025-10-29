@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Gourav Kumar (@Gourav3308)
 
 **Full Stack Java Developer | Spring Boot + React/Angular | MySQL | Java DSA | Passionate Problem Solver | Open to Opportunities**
