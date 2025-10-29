@@ -78,6 +78,35 @@ I enjoy competitive programming and solving algorithmic challenges! 🧠
 
 <div align="center">
 
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://portfolio-mongo-db.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BtgpwFEK7R1uGAO2U0gg4Pg%3D%3D">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/gouravsah/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://github.com/Gourav3308">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+### 📫 Reach Me At
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BtgpwFEK7R1uGAO2U0gg4Pg%3D%3D)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 </div>
@@ -218,35 +247,6 @@ A comprehensive portfolio application showcasing projects and skills with MongoD
 <img src="https://github-profile-trophy.vercel.app/?username=Gourav3308&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 
 **🏆 Pull Shark** - GitHub Achievement for contributing to open source projects
-
-</div>
-
----
-
-<div align="center">
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://portfolio-mongo-db.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BtgpwFEK7R1uGAO2U0gg4Pg%3D%3D">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/gouravsah/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://github.com/Gourav3308">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-### 📫 Reach Me At
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BtgpwFEK7R1uGAO2U0gg4Pg%3D%3D)
 
 </div>
 
